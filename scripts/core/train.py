@@ -54,7 +54,7 @@ def train(model, tokenizer, train_dataset, dev_dataset, enhancement: str, role_f
             total_loss += loss.item()
 
         avg_loss = total_loss / len(train_loader)
-        logger(avg_loss, title=f"{enhancement} Train Loss (Epoch {epoch + 1})")
+        logger(avg_loss, title=f"Train Loss (Epoch {epoch + 1})")
 
         # --- Validation ---
         model.eval()
@@ -82,7 +82,7 @@ def train(model, tokenizer, train_dataset, dev_dataset, enhancement: str, role_f
                 dev_refs.extend(refs)
 
         _, dev_metrics = evaluate(dev_preds, dev_refs)
-        logger(dev_metrics, title=f"{enhancement} Dev Eval (Epoch {epoch + 1})")
+        logger(dev_metrics, title=f"Dev Eval (Epoch {epoch + 1})")
 
         model.train()
 

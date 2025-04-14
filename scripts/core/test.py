@@ -53,6 +53,6 @@ def test(
     save_predictions(predictions, model_name, enhancement, dataset_type=dataset_type)
     save_metrics(df_metrics, model_name, enhancement, dataset_type=dataset_type)
 
-    logger(metrics, title=f"{enhancement} {dataset_type.capitalize()} Eval")
+    logger(metrics, title=f"{dataset_type.capitalize()} Eval")
 
     return predictions, metrics

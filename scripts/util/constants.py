@@ -5,7 +5,7 @@ import torch
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Debug flag
-DEBUG = True
+DEBUG = False
 
 # Training hyperparameters
 NUM_EPOCHS = 5
