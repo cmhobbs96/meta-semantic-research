@@ -1,0 +1,2 @@
+precision,recall,f1,bleu,edit_distance_avg,predicate_accuracy,valid_logical_form_ratio
+0.005,0.0022222222222222222,0.003,0.005474262706208733,112.82,0.005027777777777778,0.7366666666666667

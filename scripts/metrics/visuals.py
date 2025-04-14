@@ -3,6 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from scripts.util.getters import get_results_path
 
 def plot_metrics_table(csv_path: str):
     """
@@ -41,27 +42,31 @@ def compare_test_gen_metrics(model_name: str, enhancement: str = "raw"):
         model_name (str): Name of the model (e.g. "t5-small")
         enhancement (str): Enhancement type (e.g. "raw", "srl", etc.)
     """
-    test_path = f"results/{enhancement}/{model_name}_test_metrics.csv"
-    gen_path  = f"results/{enhancement}/{model_name}_gen_metrics.csv"
+    # Use your centralized path resolver
+    test_path = get_results_path(model_name, "test", enhancement)
+    gen_path  = get_results_path(model_name, "gen", enhancement)
 
-    df_test = pd.read_csv(test_path).T
-    df_gen  = pd.read_csv(gen_path).T
+    # Load data
+    test_df = pd.read_csv(test_path)
+    gen_df  = pd.read_csv(gen_path)
 
-    df_test.columns = ['Test']
-    df_gen.columns = ['Gen']
+    # Add split labels
+    test_df["Split"] = "Test"
+    gen_df["Split"] = "Gen"
 
-    combined = pd.concat([df_test, df_gen], axis=1)
+    # Combine and reshape
+    df_all = pd.concat([test_df, gen_df], ignore_index=True)
 
-    # Styled Table
-    styled = combined.style.format("{:.4f}").set_caption("Metric Comparison — Test vs Gen")
-    display(styled)
+    # Get all metric columns (exclude 'Split' if it's present)
+    metric_columns = [col for col in df_all.columns if col != "Split"]
 
-    # Bar chart per metric
-    for metric in combined.index:
+    # Plot one figure per metric
+    for metric in metric_columns:
         plt.figure(figsize=(6, 4))
-        sns.barplot(x=combined.columns, y=combined.loc[metric], palette="deep")
-        plt.title(f"{model_name.upper()} — {enhancement.upper()} | {metric}")
+        sns.barplot(data=df_all, x="Split", y=metric, palette="muted")
+        plt.title(f"{model_name.upper()} — {enhancement.upper()} | {metric.replace('_', ' ').title()} Comparison")
         plt.ylabel("Score")
-        plt.grid(True, axis="y", linestyle="--", alpha=0.5)
+        plt.ylim(0, max(df_all[metric]) * 1.2 if df_all[metric].max() > 0 else 1)
+        plt.grid(True, axis="y", linestyle="--", alpha=0.6)
         plt.tight_layout()
         plt.show()
