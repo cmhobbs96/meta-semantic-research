@@ -9,7 +9,7 @@ This research investigates compositional generalization in deep learning models 
 - **Final Pipeline**: Unified enhancement combining SRL + KGA + RBM + SRT.
 
 ## Project Structure
-
+```
 meta-semantics-research/
 ├── data/                 # Raw and enhanced datasets
 │   ├── raw/ srl/ kga/ rbm/ srt/ final/
@@ -31,7 +31,7 @@ meta-semantics-research/
 │   ├── rule_based_methods/
 │   └── final/
 └── README.md
-
+```
 ## Tools
 - Model: T5
 - Frameworks: PyTorch, Hugging Face Transformers
