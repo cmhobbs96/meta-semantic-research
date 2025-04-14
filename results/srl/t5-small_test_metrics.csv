@@ -1,2 +1,2 @@
-precision,recall,f1,bleu,edit_distance_avg,predicate_accuracy,valid_logical_form_ratio
-0.0,0.0,0.0,0.0009305493864760379,105.71633333333334,0.012219047619047619,0.98
+exact_match,precision,recall,f1,bleu,edit_distance_avg,predicate_accuracy,valid_logical_form_ratio
+0.0,0.0,0.0,0.0,0.0009792562463958386,113.08933333333333,0.005842460317460317,0.963

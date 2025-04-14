@@ -1,5 +1,4 @@
-# Meta-Semantic Modeling for Compositional Generalization in COGS
-
+# Bridging Deep Learning and Linguistic Structure: A Meta-Semantic Approach to Compositional Generalization
 This research investigates compositional generalization in deep learning models using the COGS dataset. Our approach enhances the dataset and training process through:
 
 - **Semantic Role Labeling (SRL)**: Agent, Theme, Recipient roles extracted and injected.
@@ -43,3 +42,49 @@ meta-semantics-research/
 2. Run modular experiments for each enhancement
 3. Compare results and visualize trends
 4. Publish final results as a research artifact
+
+## Literature Review
+```
+Findlay, J. Y., Salimifar, S., Yıldırım, A., and Haug, T. T.
+Rule-based semantic interpretation for universal depen-
+dencies. In Proceedings of the Sixth Workshop on Uni-
+versal Dependencies (UDW, GURT/SyntaxFest 2023),
+pp. 47–57, Washington, D.C., March 2023. Associa-
+tion for Computational Linguistics. URL https://
+aclanthology.org/2023.udw-1.6/.
+
+Hu, X. Meta semantics: Towards better natural lan-
+guage understanding and reasoning. arXiv preprint,
+abs/2304.10663, 2023. URL https://arxiv.org/
+abs/2304.10663.
+
+Kim, N. and Linzen, T. Cogs: A compositional gen-
+eralization challenge based on semantic interpretation.
+In Proceedings of the 2020 Conference on Empirical
+Methods in Natural Language Processing (EMNLP),
+pp. 9087–9105, Online, November 2020. Association
+for Computational Linguistics. doi: 10.18653/v1/2020.
+emnlp-main.731. URL https://aclanthology.
+org/2020.emnlp-main.731/.
+
+Navigli, R., Pinto, M. L., Silvestri, P., Rotondi, D., Cicil-
+iano, S., and Scir`e, A. Nounatlas: Filling the gap in nom-
+inal semantic role labeling. In Proceedings of the 62nd
+Annual Meeting of the Association for Computational
+Linguistics (Volume 1: Long Papers), pp. 16245–16258,
+Bangkok, Thailand, August 2024. Association for Com-
+putational Linguistics. doi: 10.18653/v1/2024.acl-long.
+857. URL https://aclanthology.org/2024.
+acl-long.857/.
+
+Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S.,
+Matena, M., Zhou, Y., Li, W., and Liu, P. J. Explor-
+ing the limits of transfer learning with a unified text-to-
+text transformer, 2023. URL https://arxiv.org/
+abs/1910.10683.
+
+Zhang, S., Zhao, H., and Zhou, J. Semantics-aware in-
+ferential network for natural language understanding.
+arXiv preprint, abs/2004.13338, 2020. URL https:
+//arxiv.org/abs/2004.13338.
+```

@@ -11,17 +11,16 @@ def plot_metrics_table(csv_path: str):
     """
     df = pd.read_csv(csv_path)
     
-    # Define metrics to convert to percentage
-    percent_metrics = [
-        "precision", "recall", "f1", "bleu",
-        "predicate_accuracy", "valid_logical_form_ratio", "exact_match"
-    ]
-    
-    for metric in percent_metrics:
-        if metric in df.columns:
-            df[metric] = (df[metric] * 100).round(2).astype(str) + "%"
-
-    styled = df.style.format("{:.4f}").set_caption("Evaluation Metrics")
+    styled = df.style.format({
+        "precision": "{:.2%}",
+        "recall": "{:.2%}",
+        "f1": "{:.2%}",
+        "bleu": "{:.2%}",
+        "predicate_accuracy": "{:.2%}",
+        "valid_logical_form_ratio": "{:.2%}",
+        "exact_match": "{:.2%}",
+        "edit_distance_avg": "{:.2f}"  # keep this as float
+    }).set_caption("Evaluation Metrics")
     display(styled)
     
 def plot_metrics_bar(csv_path: str, model_name: str = "Model"):
