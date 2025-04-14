@@ -1,5 +1,6 @@
 from typing import Tuple
 from transformers import T5Tokenizer, T5ForConditionalGeneration
+import torch
 from torch.utils.data import DataLoader
 from scripts.core.eval import evaluate
 from scripts.util.constants import DEVICE, BATCH_SIZE

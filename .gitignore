@@ -5,6 +5,7 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
 
 # Paperspace & virtualenvs
 .env/

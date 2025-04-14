@@ -4,7 +4,7 @@ def get_dataset_path(enhancement: str, split: str) -> str:
     """
     Get path to data/{enhancement}/{split}.tsv
     """
-    return os.path.join("data", enhancement, f"{split}.tsv")
+    return os.path.join("..", "data", enhancement, f"{split}.tsv")
 
 def get_model_path(model_name: str, enhancement: str) -> str:
     """
