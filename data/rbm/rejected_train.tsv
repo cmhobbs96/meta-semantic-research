@@ -1,0 +1,62 @@
+ball	LAMBDA a . ball ( a )	none
+game	LAMBDA a . game ( a )	none
+moose	LAMBDA a . moose ( a )	none
+Layla	Layla	none
+Emma	Emma	none
+Scarlett	Scarlett	none
+brain	LAMBDA a . brain ( a )	none
+bottle	LAMBDA a . bottle ( a )	none
+cookie	LAMBDA a . cookie ( a )	none
+Liam	Liam	none
+Emily	Emily	none
+Zoey	Zoey	none
+Natalie	Natalie	none
+Paula	Paula	none
+Ava	Ava	none
+knife	LAMBDA a . knife ( a )	none
+Charlotte	Charlotte	none
+bowl	LAMBDA a . bowl ( a )	none
+flag	LAMBDA a . flag ( a )	none
+tiger	LAMBDA a . tiger ( a )	none
+Mateo	Mateo	none
+liver	LAMBDA a . liver ( a )	none
+button	LAMBDA a . button ( a )	none
+human	LAMBDA a . human ( a )	none
+poet	LAMBDA a . poet ( a )	none
+brick	LAMBDA a . brick ( a )	none
+pen	LAMBDA a . pen ( a )	none
+bee	LAMBDA a . bee ( a )	none
+girl	LAMBDA a . girl ( a )	none
+bucket	LAMBDA a . bucket ( a )	none
+lawyer	LAMBDA a . lawyer ( a )	none
+Chloe	Chloe	none
+queen	LAMBDA a . queen ( a )	none
+Jaxon	Jaxon	none
+teacher	LAMBDA a . teacher ( a )	none
+governor	LAMBDA a . governor ( a )	none
+prisoner	LAMBDA a . prisoner ( a )	none
+chalk	LAMBDA a . chalk ( a )	none
+Carter	Carter	none
+chair	LAMBDA a . chair ( a )	none
+Madison	Madison	none
+spoon	LAMBDA a . spoon ( a )	none
+Zoe	Zoe	none
+rose	LAMBDA a . rose ( a )	none
+Alexander	Alexander	none
+scientist	LAMBDA a . scientist ( a )	none
+toothbrush	LAMBDA a . toothbrush ( a )	none
+box	LAMBDA a . box ( a )	none
+professor	LAMBDA a . professor ( a )	none
+Hazel	Hazel	none
+bird	LAMBDA a . bird ( a )	none
+shark	LAMBDA a . shark ( a )	none
+Mila	Mila	none
+plant	LAMBDA a . plant ( a )	none
+Sebastian	Sebastian	none
+student	LAMBDA a . student ( a )	none
+clock	LAMBDA a . clock ( a )	none
+priest	LAMBDA a . priest ( a )	none
+gumball	LAMBDA a . gumball ( a )	none
+Violet	Violet	none
+flower	LAMBDA a . flower ( a )	none
+director	LAMBDA a . director ( a )	none
