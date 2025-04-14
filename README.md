@@ -43,10 +43,3 @@ meta-semantics-research/
 2. Run modular experiments for each enhancement
 3. Compare results and visualize trends
 4. Publish final results as a research artifact
-
-## Setup
-
-```bash
-git clone https://github.com/YOUR_USERNAME/meta-semantic-cogs.git
-cd meta-semantic-cogs
-pip install -r requirements.txt
