@@ -10,9 +10,20 @@ def plot_metrics_table(csv_path: str):
     Display a styled table of evaluation metrics.
     """
     df = pd.read_csv(csv_path)
+    
+    # Define metrics to convert to percentage
+    percent_metrics = [
+        "precision", "recall", "f1", "bleu",
+        "predicate_accuracy", "valid_logical_form_ratio", "exact_match"
+    ]
+    
+    for metric in percent_metrics:
+        if metric in df.columns:
+            df[metric] = (df[metric] * 100).round(2).astype(str) + "%"
+
     styled = df.style.format("{:.4f}").set_caption("Evaluation Metrics")
     display(styled)
-
+    
 def plot_metrics_bar(csv_path: str, model_name: str = "Model"):
     """
     Plot bar chart of metrics from a saved CSV file.
@@ -33,7 +44,7 @@ def plot_metrics_bar(csv_path: str, model_name: str = "Model"):
     plt.grid(True, axis="y")
     plt.tight_layout()
     plt.show()
-
+    
 def compare_test_gen_metrics(model_name: str, enhancement: str = "raw"):
     """
     Compare test vs gen metrics for a given model and enhancement.
@@ -42,31 +53,41 @@ def compare_test_gen_metrics(model_name: str, enhancement: str = "raw"):
         model_name (str): Name of the model (e.g. "t5-small")
         enhancement (str): Enhancement type (e.g. "raw", "srl", etc.)
     """
-    # Use your centralized path resolver
+    # --- Get CSV paths ---
     test_path = get_results_path(model_name, "test", enhancement)
     gen_path  = get_results_path(model_name, "gen", enhancement)
 
-    # Load data
+    # --- Load CSVs ---
     test_df = pd.read_csv(test_path)
     gen_df  = pd.read_csv(gen_path)
 
-    # Add split labels
+    # --- Add split labels ---
     test_df["Split"] = "Test"
     gen_df["Split"] = "Gen"
 
-    # Combine and reshape
+    # --- Combine ---
     df_all = pd.concat([test_df, gen_df], ignore_index=True)
 
-    # Get all metric columns (exclude 'Split' if it's present)
-    metric_columns = [col for col in df_all.columns if col != "Split"]
+    # --- Percent metrics to scale ---
+    percent_metrics = [
+        "precision", "recall", "f1", "bleu",
+        "predicate_accuracy", "valid_logical_form_ratio", "exact_match"
+    ]
 
-    # Plot one figure per metric
-    for metric in metric_columns:
+    for metric in percent_metrics:
+        if metric in df_all.columns:
+            df_all[metric] = df_all[metric] * 100
+
+    # --- Plot ---
+    for metric in percent_metrics:
+        if metric not in df_all.columns:
+            continue
+
         plt.figure(figsize=(6, 4))
         sns.barplot(data=df_all, x="Split", y=metric, palette="muted")
-        plt.title(f"{model_name.upper()} — {enhancement.upper()} | {metric.replace('_', ' ').title()} Comparison")
-        plt.ylabel("Score")
-        plt.ylim(0, max(df_all[metric]) * 1.2 if df_all[metric].max() > 0 else 1)
+        plt.title(f"{model_name.upper()} — {enhancement.upper()} | {metric.replace('_', ' ').title()}")
+        plt.ylabel("Score (%)")
+        plt.ylim(0, max(df_all[metric].max() * 1.1, 5))
         plt.grid(True, axis="y", linestyle="--", alpha=0.6)
         plt.tight_layout()
         plt.show()

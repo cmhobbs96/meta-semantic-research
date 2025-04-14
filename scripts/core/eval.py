@@ -9,7 +9,8 @@ from scripts.metrics.metrics import (
     compute_bleu,
     levenshtein_distance,
     compute_predicate_accuracy,
-    is_valid_logical_form
+    is_valid_logical_form,
+    compute_exact_match
 )
 
 def evaluate(preds: List[str], refs: List[str]) -> Tuple[pd.DataFrame, dict]:
@@ -22,6 +23,7 @@ def evaluate(preds: List[str], refs: List[str]) -> Tuple[pd.DataFrame, dict]:
     edits = []
     pred_accs = []
     valid_flags = []
+    exact_matches = []
 
     for pred, ref in zip(preds, refs):
         pred, ref = pred.strip(), ref.strip()
@@ -35,6 +37,7 @@ def evaluate(preds: List[str], refs: List[str]) -> Tuple[pd.DataFrame, dict]:
         edit = levenshtein_distance(pred, ref)
         pred_acc = compute_predicate_accuracy(pred, ref)
         valid = is_valid_logical_form(pred)
+        exact = compute_exact_match(pred, ref)
 
         precisions.append(p)
         recalls.append(r)
@@ -43,8 +46,10 @@ def evaluate(preds: List[str], refs: List[str]) -> Tuple[pd.DataFrame, dict]:
         edits.append(edit)
         pred_accs.append(pred_acc)
         valid_flags.append(valid)
+        exact_matches.append(exact)
 
     metrics = {
+        "exact_match": np.mean(exact_matches),
         "precision": np.mean(precisions),
         "recall": np.mean(recalls),
         "f1": np.mean(f1s),

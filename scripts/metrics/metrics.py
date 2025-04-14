@@ -37,3 +37,6 @@ def compute_predicate_accuracy(pred: str, ref: str) -> float:
     pred_predicates = extract_predicates(pred)
     ref_predicates = extract_predicates(ref)
     return len(pred_predicates & ref_predicates) / len(ref_predicates) if ref_predicates else 0.0
+
+def compute_exact_match(pred: str, ref: str) -> float:
+    return 1.0 if pred.strip() == ref.strip() else 0.0
