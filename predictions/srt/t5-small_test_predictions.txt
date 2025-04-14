@@ -1,0 +1,300 @@
+* book ( x _ 1 ) ; wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, Camila ) AND wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, x _ 1 ) AND wire. agent ( x _ 1, x _ 1 ) AND wire. agent ( x _ 1, book ( x _ 1 ) ; book (
+* girl ( x _ 1 ) ; roll. theme ( x _ 1, Leah ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. ; girl ( x _ 1 ) ; roll
+* cake ( x _ 1 ) ; send. theme ( x _ 1, Emma ) AND send. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND cake ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 3, x _ 1 ) ; send
+* in_distribution ( x _ 1 ) ; slid. agent ( x _ 1, Grayson ) AND Isabella. agent ( x _ 1, Isabella ) AND slid. agent ( x _ 1, Isabella ) AND slid. agent ( x _ 1, x _ 1 ) AND slid. agent ( x _ 1, x _ 1 ) ; grayson ) ; x
+* bear ( x _ 1 ) ; walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. theme ) ; bear ) ;.
+* girl ( x _ 1 ) ; needed. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. theme ( x _ 1 ) ; needed
+balloon ( x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND found. ( )
+* present. agent ( x _ 1, Mason ) ; disintegration. agent ( x _ 1, Mason ) AND disintegration. agent ( x _ 1, Mason ) AND disintegration. agent ( x _ 1, Mason ) AND disintegration. agent ( x _ 1, Mason ) AND disintegration. agent ( x _ 1, Mason ) AND disintegration. ( ) ; ( ) ; dislocation )
+* muffin ( x _ 1 ) ; send. theme ( x _ 1, x _ 1 ) AND send. theme ( x _ 1, x _ 1 ) AND send. recipient ( x _ 1, x _ 1 ) AND send. theme ( x _ 1, x _ 1 ) AND send. theme ( x _ 1, x _ 1 ) AND send
+* cake ( x _ 1 ) ; give. theme ( x _ 1, Jacob ) AND give. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+cake ( x _ 1 ) AND tolerate. theme ( x _ 1, Emma ) AND tolerate. theme ( x _ 1, x _ 1 ) AND tolerate. theme ( x _ 1, x _ 1 ) AND tolerate. theme ( x _ 1, x _ 1 ) AND tolerate. theme ( x _ 1, x _ 1 ) AND tolerate. theme ( x _ 1 ) AND cake ). theme (
+* donut ( x _ 1 ) ; value ( x _ 1, x _ 1 ) AND value. agent ( x _ 1, x _ 1 ) AND value. agent ( x _ 1, x _ 1 ) AND value. agent ( x _ 1, x _ 1 ) AND value. agent ( x _ 1, x _ 1 ) AND value. ( ) ; donut ( x _ 1
+cake ( x _ 1 ) AND loved. theme ( x _ 1, Sofia ) AND loved. theme ( x _ 1, x _ 1 ) AND loved. theme ( x _ 1, x _ 1 ) AND loved. theme ( x _ 1, x _ 1 ) AND loved. theme ( x _ 1, x _ 1 ) AND loved. theme ( x _ 1 )
+* in_distribution ( x _ 1 ) ; inflated. agent ( x _ 1, Luke ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, Luke ) AND gonfl. _ 3, in_distribution )
+* pit ( x _ 1 ) ; donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 )
+cake ( x _ 1 ) AND return. agent ( x _ 1, Isabella ) AND return. agent ( x _ 1, Isabella ) AND return. agent ( x _ 1, Isabella ) AND return. agent ( x _ 1, Isabella ) AND return. agent ( x _ 1, Isabella ) AND return. agent ( x _ 1, Isabella ) AND return
+* girl ( x _ 1 ) ; send. agent ( x _ 1, Emma ) AND send. agent ( x _ 1, x _ 1 ) AND send. agent ( x _ 1, Emma ) AND send. agent ( x _ 1, x _ 1 ) AND send. agent ( x _ 1, x _ 1 ) AND send. agent ( x _ 3, x _ 1 ), x
+cake ( x _ 1 ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, x _ 1 ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, x _ 1 ) AND sell. agent ( x _ 1, Emma )
+pickle ( x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked
+* dog ( x _ 1 ) ; offered cake ( x _ 1 ) ; offered cake ( x _ 1, x _ 1 ) AND offered. theme ( x _ 1, x _ 1 ) AND offered. theme ( x _ 1, x _ 1 ) AND offered. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+* cake ( x _ 1 ) ; boy ( x _ 1 ) AND wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, x _ 1 ) AND wire. agent ( x _ 1, x _ 1 ) AND wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, x _ 1 )
+* bear ( x _ 1 ) ; sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( )
+* cake ( x _ 1 ) ; hoped. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND a boy ( x _ 1, x
+* smile ( x _ 1 ) ; smile. agent ( x _ 1, Benjamin ) AND smile. agent ( x _ 1, Benjamin ) AND smile. agent ( x _ 1, Benjamin ) AND smile. agent ( x _ 1, Benjamin )
+* table ( x _ 1 ) ; a cat ( x _ 1, x _ 1 ) AND towel ( x _ 1 ) AND towel ( x _ 1 ) AND towel ( x _ 1 )
+* table ( x _ 1 ) ; serve. agent ( x _ 1, Isabella ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, Isabella ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1 ), x _ 1 )
+* in_distribution ( x _ 1 ) ; ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1 ) ; ;. ( x _ 1
+pen ( x _ 1 ) AND sketch. theme ( x _ 1, x _ 1 ) AND sketch. theme ( x _ 1, x _ 1 ) AND sketch. theme ( x _ 1, x _ 1 ) AND sketch. theme ( x _ 1, x _ 1 ) AND sketch. theme ( x _ 1, x _ 1 ) AND sketch. theme ( ) ; duck ) ; pen (
+block ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give.. ). ( x _ 1,
+* cake ( x _ 1 ) ; liked. theme ( x _ 1, Emma ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( )
+bucket ( x _ 1 ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1, Emma ) AND find. agent ( x _ 1 )
+* paint. agent ( x _ 1, Mason ) AND paint. agent ( x _ 1, Emma ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x
+student ( x _ 1 ) AND declare. theme ( x _ 1, Olivia ) AND girl ( x _ 1 )
+melon ( x _ 1 ) AND bring. theme ( x _ 1, Emma ) AND bring. theme ( x _ 1, Emma ) AND bring. theme ( x _ 1, Emma ) AND bring. theme ( x _ 1, Emma ) AND bring. theme ( x _ 1, x _ 1 ) AND bring. theme ( x _ 1, Emma ) AND bring
+* donut ( x _ 1 ) ; change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. theme ( x _ 1 ) ;
+cake ( x _ 1 ) AND given. theme ( x _ 1, Sophia ) AND given. theme ( x _ 1, violet ) AND given. theme ( x _ 1, violet ) AND given. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+* speaker ( x _ 1 ) ; serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 )
+. agent ( x _ 1, Mia ) AND lou. theme ( x _ 1, Emma ) AND lou. agent ( x _ 1, Emma ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( )
+girl ( x _ 1 ) AND nurse. agent ( x _ 1, x _ 1 ) AND nurse ( x _ 1 ) AND nurse ( x _ 1 )
+cake ( x _ 1 ) AND enlarged. theme ( x _ 1, x _ 1 ) AND enlarged. theme ( x _ 1, x _ 1 ) AND enlarged. theme ( x _ 1, x _ 1 ) AND enlarged. theme ( x _ 1, x _ 1 ) AND enlarged. theme ( x _ 1, x _ 1 )
+fruit ( x _ 1 ) AND draw. theme ( x _ 1, Olivia ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, Olivia ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1 )
+* sandwich ( x _ 1 ) ; frog ( x _ 1, James ) AND hoped. agent ( x _ 1, x _ 1 ) AND sandwich ( x _ 1 )
+* writer ( x _ 1 ) ; reddit. agent ( x _ 1, Olivia ) AND reddit. agent ( x _ 1, x _ 1 ) AND reddit. agent ( x _ 1, Olivia ) AND reddit. agent ( x _ 1, x _ 1 ) AND reddit. agent ( x _ 1, Olivia ) AND reddit
+cake ( x _ 1 ) AND hunt. theme ( x _ 1, Emma ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, Emma ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1 )
+* girl ( x _ 1 ) ; roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x
+* bed ( x _ 1 ) ; award ( x _ 1 ) AND cake ( x _ 1 ) AND cake ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+seed ( x _ 1 ) AND paint. agent ( x _ 1, Liam ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, x _ 1 ) AND paint. agent ( x _ 1, Liam ) AND paint. agent ( x _ 1, x _ 1 )
+* girl ( x _ 1 ) ; help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, x _ 1 )
+* cake ( x _ 1 ) ; liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND table. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 )
+cookie ( x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( )
+* dog ( x _ 1 ) ; liked. agent ( x _ 1, William ) AND liked. theme ( x _ 1, x _ 1 ) AND award. theme ( x _ 1, x _ 1 ) AND award. theme ( x _ 1, x _ 1 ) AND award. agent ( x _ 1, x _ 1 ) AND award. agent ( )
+* in_distribution ( x _ 1 ) ; appreciated. agent ( x _ 1, Emma ) AND appreciated. agent ( x _ 1, Chloe ) AND appreciated. agent ( x _ 1, Emma ) AND appreciated. agent ( x _ 1, Emma ) AND appreciated. agent ( x _ 1, Emma ) AND appreciated. agent ( x _ 1, x _ 3, x _ 1 )
+* in_distribution ( x _ 1 ) ; hoped. agent ( x _ 1, Liam ) AND smirked. agent ( x _ 1, Harper ) AND hoped. agent ( x _ 1, Liam ) AND smirked. agent ( x _ 1, Liam ) AND hoped. agent ( x _ 1, Harper ) AND smirked
+* boy ( x _ 1 ) ; pierce. agent ( x _ 1, x _ 1 ) AND pierce. agent ( x _ 1, x _ 1 ) AND pierce. agent ( x _ 1, x _ 1 ) AND pierce. agent ( x _ 1, x _ 1 ) AND pierce. agent ( x _ 1 ) ; boy ( x _ 1, x
+* chalk ( x _ 1 ) ; paint. theme ( x _ 1, x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND paint. lion ). theme ( x _
+* ball ( x _ 1 ) ; lended. agent ( x _ 1, Emma ) AND lended. agent ( x _ 1, Emma ) AND lended. agent ( x _ 1, Emma ) AND lended. agent ( x _ 1, Emma ) AND lended. agent ( x _ 1, Emma ) AND lended. agent ( x _ 3, x _ 1 ) ; ball (
+* donut ( x _ 1 ) ; roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND a donut ( x _ 1, x
+* needle ( x _ 1 ) ; worship. theme ( x _ 1, x _ 1 ) AND worship. theme ( x _ 1, x _ 1 ) AND needle ( x _ 1 )
+. agent ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND condo ( x _ 1 )
+* donut ( x _ 1 ) ; give. theme ( x _ 1, Emma ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, Emma ) AND give. theme ( x _ 1, ), x _ 1
+* crayon ( x _ 1 ) ; given. theme ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 ) AND table. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ), x _
+a_distribution ( x _ 1 ) AND passed. agent ( x _ 1, Madison ) AND passed. agent ( x _ 1, Madison ) AND cake ( x _ 1 )
+* boy ( x _ 1 ) ; ran. agent ( x _ 1, x _ 1 ) AND ran. agent ( x _ 1, x _ 1 ) AND ran. agent ( x _ 1, x _ 1 ) AND ran. agent ( x _ 1, x _ 1 ) AND ran. agent ( x _ 1, x _ 1 ) AND ran
+* cake ( x _ 1 ) ; cake ( x _ 1 ) ; roll. theme ( x _ 1, Emma ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, Emma )
+* baby ( x _ 1 ) ; slid. agent ( x _ 1, x _ 1 ) AND slid. agent ( x _ 1, x _ 1 ) AND slid. agent ( x _ 1, x _ 1 ) AND girl ( x _ 1 )
+* cake ( x _ 1 ) ; given. theme ( x _ 1, Emma ) AND given. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+* muffin ( x _ 1 ) ; roll. theme ( x _ 1, Emma ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1 ), x _ 1
+bottle ( x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( ) ; x _ 1,
+x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1, x _ 1,
+* bunny ( x _ 1 ) ; sleep. agent ( x _ 1, x _ 1 ) AND sleep. theme ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 )
+* hammer ( x _ 1 ) ; frozen. agent ( x _ 1, x _ 1 ) AND frozen. agent ( x _ 1, x _ 1 ) AND frozen. agent ( x _ 1, x _ 1 ) AND frozen. agent ( x _ 1, x _ 1 ) AND frozen. agent ( x _ 1, x _ 1 )
+* cat ( x _ 1 ) ; throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x
+* biscuit ( x _ 1 ) ; liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, x _ 1 ) AND liked., x _ 1 ) ; mouse
+* cake ( x _ 1 ) ; appreciation ( x _ 1 ) AND appreciation. agent ( x _ 1, x _ 1 ) AND appreciation. theme ( x _ 1, x _ 1 ) AND appreciation. theme ( x _ 1, x _ 1 ) AND appreciation. theme ( x _ 1, x _ 1 ) AND appreciation. theme ( x _ 1 )
+* sketch ( x _ 1 ) ; sketch. agent ( x _ 1, Ella ) AND sketch. agent ( x _ 1, Ella ) AND sketch. agent ( x _ 1, Ella ) AND sketch. agent ( x _ 1, Ella ) AND sketch. agent ( x _ 1, Ella ) AND sketch. agent ( x _ 1, Ella )
+cookie ( x _ 1 ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1, Noah ) AND given. agent ( x _ 1 )
+girl ( x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) ; girl ( x _ 1 )
+* stage ( x _ 1 ) ; bring. theme ( x _ 1, Noah ) AND bring. theme ( x _ 1, Mia ) AND cookie ( x _ 1 )
+rose ( x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. girl ( ) ; ) ; girl ( x
+* donut ( x _ 1 ) ; hunt. agent ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. wolf ( x _ 1,
+cake ( x _ 1 ) AND help. theme ( x _ 1, x _ 1 ) AND help. theme ( x _ 1, x _ 1 ) AND help. theme ( x _ 1, x _ 1 ) AND help. theme ( x _ 1, x _ 1 ) AND help. theme ( x _ 1, x _ 1 ) AND help. girl ( ) ; cake ( x _ 1
+game ( x _ 1 ) AND dusted. agent ( x _ 1, Emma ) AND dusted. agent ( x _ 1, Emma ) AND dusted. agent ( x _ 3, x _ 3 ) AND dusted. agent ( x _ 3, Emma ) AND dusted. agent ( x _ 3, Emma ) AND dusted. agent ( x _ 3, x _ 1 ) AND x _ 1 )
+rose ( x _ 1 ) ; lended. agent ( x _ 1, Amelia ) AND lended. theme ( x _ 1, x _ 1 ) AND glass ( x _ 1 ) AND glass ( x _ 1 )
+girl ( x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) AND mailed. agent ( x _ 1, x _ 1 ) ; boy ( x _ 1 )
+cake ( x _ 1 ) AND split. theme ( x _ 1, Oliver ) AND split. theme ( x _ 1, x _ 1 ) AND split. theme ( x _ 1, x _ 1 ) AND split. theme ( x _ 1, x _ 1 ) AND split. theme ( x _ 1, x _ 1 ) AND split. theme ( x _ 1 )
+* jar ( x _ 1 ) ; collapse. agent ( x _ 1, x _ 1 ) AND collapse. theme ( x _ 1, x _ 1 ) AND collapse. theme ( x _ 1, x _ 1 ) AND collapse. theme ( x _ 1, x _ 1 ) AND collapse. theme ( x _ 1, x _ 1 ) AND jar ( x _ 1 ) ; collapse
+hamburger ( x _ 1 ) AND disintegration. agent ( x _ 1, x _ 1 ) AND disintegration. agent ( x _ 1, x _ 1 ) AND disintegration. agent ( x _ 1, x _ 1 ) AND disintegration. agent ( x _ 1, x _ 1 ) AND disintegration. agent ( x _ 1, x _ 1 ) AND disintegr.. (
+* donut ( x _ 1 ) ; sell. agent ( x _ 1, Isabella ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Isabella ) AND sell. agent ( x _ 1, Isabella ) AND sell. agent ( x _ 1, Isabella ) AND sell. agent ( x _ 1, x _ 1 ) ; table ( x _ 1
+* girl ( x _ 1 ) ; burn. agent ( x _ 1, Liam ) AND burn. agent ( x _ 1, Liam ) AND burn. agent ( x _ 1, Liam ) AND burn. agent ( x _ 1, Liam ) AND burn. agent ( x _ 1, Liam ) AND burn. agent ( x _ 1, Liam )
+* cat ( x _ 1 ) ; give. theme ( x _ 1, Abigail ) AND sandwich ( x _ 1 )
+cake ( x _ 1 ) AND frozen. theme ( x _ 1, Sophia ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, x _ 1 ) AND frozen. theme ( x _ 1, Sophia ) AND frozen. theme ( x _ 1 )
+cake ( x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. cake ( )
+rose ( x _ 1 ) AND floated. agent ( x _ 1, x _ 1 ) AND floated. theme ( x _ 1, x _ 1 ) AND floated. agent ( x _ 1, x _ 1 ) AND floated. agent ( x _ 1, x _ 1 ) AND floated. agent ( x _ 1, x _ 1 )
+cake ( x _ 1 ) AND call. theme ( x _ 1, Emma ) AND call. theme ( x _ 1, x _ 1 ) AND call. theme ( x _ 1, x _ 1 ) AND call. theme ( x _ 1, x _ 1 ) AND call. theme ( x _ 1, x _ 1 ) AND call. theme ( x _ 1 )
+x _ 1, x _ 1, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, a _ 1,'x _ 1
+* biscuit ( x _ 1 ) ; imagined. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. ; x _ 1 ). horse
+* girl ( x _ 1 ) ; donut ( x _ 1 ) AND snappe. agent ( x _ 1, x _ 1 ) AND snappe. agent ( x _ 1, x _ 1 ) AND snappe. agent ( x _ 1, x _ 1 ) AND snappe. agent ( x _ 1, x _ 1 ) AND snappe. agent ( x _ 1, donut ) ; girl ; x
+girl ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( x _ 1 ) AND balloon ( ) ; girl ( x _ 1, x
+cookie ( x _ 1 ) AND lended. agent ( x _ 1, Liam ) AND lended. agent ( x _ 1, Liam ) AND lended. agent ( x _ 1, Liam ) AND lended. agent ( x _ 1, Liam ) AND lended. agent ( x _ 1, Liam ) AND lended. agent ( )
+* boy ( x _ 1 ) ; gel. agent ( x _ 1, Emma ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, Emma ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 3, x _ 1 ). in (
+flower ( x _ 1 ) AND find. agent ( x _ 1, x _ 1 ) AND find. agent ( x _ 1, x _ 1 ) AND find. agent ( x _ 1, x _ 1 ) AND find. agent ( x _ 1, x _ 1 ) AND find. agent ( x _ 1, x _ 1 ) AND find. flower ( )
+* book ( x _ 1 ) ; lender ( x _ 1, Emma ) AND book ( x _ 1 )
+* cake ( x _ 1 ) ; * cake ( x _ 1, Mia ) AND break. theme ( x _ 1, Mia ) AND break. theme ( x _ 1, x _ 1 ) AND break. theme ( x _ 1, x _ 1 ) AND break. theme ( x _ 1, x _ 1 ) AND break. theme ( x _ 3, x _ 1 ) ; cake (
+* girl ( x _ 1 ) ; help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, Emma ) AND help. agent ( x _ 1, Emma ) AND help. on ). agent ( x _ 1
+pretzel ( x _ 1 ) AND loan. agent ( x _ 1, x _ 1 ) AND loan. agent ( x _ 1, x _ 1 ) AND loan. agent ( x _ 1, x _ 1 ) AND loan. agent ( x _ 1, x _ 1 ) AND loan. agent ( x _ 1, x _ 1 ) AND loan. agent ( ). agent ( x _ 1
+* run ( x _ 1 ) ; crave. agent ( x _ 1, Olivia ) AND crave. agent ( x _ 1, x _ 1 ) AND crave. agent ( x _ 1, x _ 1 ) AND crave. agent ( x _ 1, Olivia ) AND crave. agent ( x _ 1, x _ 1 ) AND crave. agent ( x _ 3,, x _ 1 ),
+cake ( x _ 1 ) AND girl ( x _ 1 ) AND girl ( x _ 1 )
+. agent ( x _ 1 ) AND improve. agent ( x _ 1, Daniel ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( )
+strawberry ( x _ 1 ) AND collapse. agent ( x _ 1, x _ 1 ) AND collapse. agent ( x _ 1, x _ 1 ) AND collapse. agent ( x _ 1, x _ 1 ) AND collapse. agent ( x _ 1, x _ 1 ) AND collapse. agent ( x _ 1, x _ 1 ) AND collapse. ( x _ 1 )
+* plant ( x _ 1 ) ; recipient ( x _ 1, Olivia ) AND recipient ( x _ 1 )
+* chalk ( x _ 1 ) ; adoration. agent ( x _ 1, x _ 1 ) AND adoration. agent ( x _ 1, x _ 1 ) AND adoration. agent ( x _ 1, x _ 1 ) AND adoration. agent ( x _ 1, x _ 1 ) AND adoration. agent ( x _ 1 ) ; a _ 1 ) ; a
+ball ( x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. ( x _ 1 )
+cake ( x _ 1 ) AND drawn. theme ( x _ 1, x _ 1 ) AND drawn. theme ( x _ 1, x _ 1 ) AND drawn. theme ( x _ 1, x _ 1 ) AND drawn. theme ( x _ 1, x _ 1 ) AND drawn. theme ( x _ 1, x _ 1 ) AND drawn. theme ( ) ; girl ) AND draw. theme
+. agent ( x _ 1 ) AND knife. theme ( x _ 1, Emma ) AND knife. theme ( x _ 1, x _ 1 ) AND knife ( x _ 1 )
+* sandwich ( x _ 1 ) ; brought. agent ( x _ 1, x _ 1 ) AND brought. agent ( x _ 1, x _ 1 ) AND brought. agent ( x _ 1, x _ 1 ) AND brought. agent ( x _ 1, x _ 1 ) AND brought. agent ( x _ 1, x _ 1 ) AND brought
+* box ( x _ 1 ) ; girl ( x _ 1, Evelyn ) AND box ( x _ 1 )
+cake ( x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, Emma ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1 )
+cake ( x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. cake ( ) ;, x _ 1
+* cookie ( x _ 1 ) ; girl ( x _ 1 ) AND cookie ( x _ 1 )
+* donut ( x _ 1 ) ; observe. theme ( x _ 1, x _ 1 ) AND observe. theme ( x _ 1, x _ 1 ) AND observe. theme ( x _ 1, x _ 1 ) AND observe. theme ( x _ 1, x _ 1 ) AND observe. theme ( x _ 1, x _ 1 ) AND donut ( x _ 1 ) ; girl
+* girl ( x _ 1 ) ; juggle. theme ( x _ 1, x _ 1 ) AND juggle. theme ( x _ 1, x _ 1 ) AND juggle. theme ( x _ 1, x _ 1 ) AND juggle. theme ( x _ 1, x _ 1 ) AND juggle. theme ( x _ 1 ) ; girl ( x _
+drink ( x _ 1 ) AND return. theme ( x _ 1, Emma ) AND return. theme ( x _ 1, Emma ) AND return. theme ( x _ 1, x _ 1 ) AND return. theme ( x _ 1, Emma ) AND return. theme ( x _ 1, Emma ) AND return. theme ( x _ 1, x _ 1 )
+* flag ( x _ 1 ) ; give. theme ( x _ 1, Emma ) AND give. theme ( x _ 1, x _ 1 ) AND flag. theme ( x _ 1, x _ 1 ) AND flag. theme ( x _ 1, x _ 1 ) AND flag. theme ( x _ 1, x _ 1 ) AND flag. theme ( )
+girl ( x _ 1 ) AND confess. agent ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( ) ; x _ 1,
+* in_distribution ( x _ 1, Ella ) ; x _ 3, Ella. agent ( x _ 1, Ella ) AND snappe. agent ( x _ 1, Ella ) AND snappe. agent ( x _ 1, Ella ) AND snappe. agent ( x _ 3, Ella ) AND snappe. agent ( x _ 3, Ella )
+citizen ( x _ 1 ) AND loved. theme ( x _ 1, x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( x _ 1 ) AND boy ( )
+* block ( x _ 1 ) ; liked. agent ( x _ 1, x _ 1 ) AND dusted. agent ( x _ 1, x _ 1 ) AND dusted. agent ( x _ 1, x _ 1 ) AND dusted. agent ( x _ 1, x _ 1 ) AND dusted. agent ( x _ 1, x _ 1 ) ; block ( x _ 1 )
+crayon ( x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. theme ( ) ; x _ 1,
+* bag ( x _ 1 ) ; gonfl. agent ( x _ 1, Liam ) AND gonfl. agent ( x _ 1, Liam ) AND gonfl. agent ( x _ 1, Liam ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ), x
+* baby ( x _ 1 ) ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 1 ; x _ 3, x _ 1 ) ; girl
+( x _ 1 ) AND give. theme ( x _ 1, Grayson ) AND give. theme ( x _ 1, x _ 1 ) AND plant ( x _ 1 ) AND bun ( x _ 1 ) AND bun ( x _ 1 ) AND bun ( x _ 1 ) AND bun ( x _ 1 ) AND bun ( x _ 1 ) AND bun ( x _ 1, Grayson ) AND ; ( x _
+biscuit ( x _ 1 ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, x _ 1 ) AND offered. agent ( x _ 1, x _ 1 )
+cookie ( x _ 1 ) AND paint. agent ( x _ 1, Emma ) AND cookie ( x _ 1 )
+* biscuit ( x _ 1 ) ; paint. theme ( x _ 1, Madison ) AND paint. theme ( x _ 1, Madison ) AND biscuit ( x _ 1 )
+pizza ( x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( )
+* girl ( x _ 1 ) ; floated. agent ( x _ 1, Emma ) AND floated. agent ( x _ 1, Emma ) AND floated. agent ( x _ 1, x _ 1 ) AND floated. agent ( x _ 1, Emma ) AND floated. agent ( x _ 1, x _ 1 ) AND floated. agent ( x _ 3 ), x _ 3 )
+* girl ( x _ 1 ) ; clean. agent ( x _ 1, x _ 1 ) AND clean. agent ( x _ 1, x _ 1 ) AND clean. agent ( x _ 1, x _ 1 ) AND clean. agent ( x _ 1, x _ 1 ) AND clean. agent ( x _ 1, x _ 1 ) AND clean. theme ( x _ 1 ) ; clean
+* bed. agent ( x _ 1, James ) AND said. agent ( x _ 1, Emma ) AND sleep. agent ( x _ 1, Emma ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent
+* flot. agent ( x _ 1, Amelia ) AND flot. agent ( x _ 1, Amelia ) AND flot. agent ( x _ 1, Amelia ) AND flot. agent ( x _ 1, Amelia ) AND flot. agent ( x _ 1, Amelia ) AND flot. agent ( x _ 1, Amelia ) AND flot. ; flo. ; ; x _ 1
+* boy ( x _ 1 ) ; talk. agent ( x _ 1, x _ 1 ) AND talk. agent ( x _ 1, x _ 1 ) AND talk. agent ( x _ 1, x _ 1 ) AND talk. agent ( x _ 1, x _ 1 ) AND talk. agent ( x _ 1, x _ 1 ) AND talk. theme ( x _ 1 ) ; talk
+* child ( x _ 1 ) ; offered hammer ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam ) AND offered. agent ( x _ 1, Liam )
+lin_distribution ( x _ 1 ) AND lin_distribution ( x _ 1, Madison ) AND lin_distribution ( x _ 1 ) AND lin_distribution ( x _ 1, Madison ) AND lin_distribution ( x _ 1 ) AND lin_distribution ( x _ 1 ) AND lin_d
+dog ( x _ 1 ) AND fed. theme ( x _ 1, Noah ) AND fed. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND cake ( x _ 1 )
+drink ( x _ 1 ) AND rent. theme ( x _ 1, Emma ) AND rent. theme ( x _ 1, x _ 1 ) AND rent. agent ( x _ 1, Emma ) AND rent. agent ( x _ 1, x _ 1 ) AND rent. agent ( x _ 1, x _ 1 ) AND rent. agent ( x _ 1 )
+* can ( x _ 1 ) ; wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1, Emma ) AND wire. agent ( x _ 1, x _ 1 ) AND wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, Emma ) AND wire. agent ( x _ 1, Emma ) AND wire. ( x _ 1 ). can
+* in_distribution ( x _ 1 ) ; laugh. agent ( x _ 1, Avery ) AND laugh. agent ( x _ 1, Avery ) AND laugh. agent ( x _ 1, Avery ) AND laugh. agent ( x _ 1, Avery )
+___ ( x _ 1 ) ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; _ _ 1 ; ____________ (
+* scientist ( x _ 1 ) ; draw. agent ( x _ 1, x _ 1 ) AND draw. agent ( x _ 1, x _ 1 ) AND draw. agent ( x _ 1, x _ 1 ) AND draw. agent ( x _ 1, x _ 1 ) AND draw. agent ( x _ 1, x _ 1 ) AND draw. _ _ 1 ). agent (
+* girl ( x _ 1 ) ; roll. agent ( x _ 1, Benjamin ) AND roll. agent ( x _ 1, Benjamin ) AND roll. agent ( x _ 1, Benjamin ) AND roll. agent ( x _ 1, Benjamin ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, Benjamin ) AND roll. theme ( x _ 1 ) ; roll
+* rose ( x _ 1 ) ; given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given frog ). _ 1, x
+glue ( x _ 1 ) AND stain. agent ( x _ 1, x _ 1 ) AND stain. agent ( x _ 1, x _ 1 ) AND stain. agent ( x _ 1, x _ 1 ) AND stain. agent ( x _ 1, x _ 1 ) AND stain. agent ( x _ 1, x _ 1 ) ; glue ) ; stab. agent (
+* crocodile ( x _ 1 ) ; roll. agent ( x _ 1, Noah ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, Noah ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, Noah ) AND roll. agent ( x _ 3, crocodile ), x
+knife ( x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. agent ( x _ 1, x _ 1 ) AND serve. ; ) ; x _ 1,
+* melon ( x _ 1 ) ; missed. agent ( x _ 1, Liam ) AND missed. theme ( x _ 1, x _ 1 ) AND missed. agent ( x _ 1, Liam ) AND missed. agent ( x _ 1, Liam ) AND missed. agent ( x _ 1, Liam ) AND missed. agent ( x _ 1 )
+* cake ( x _ 1 ) ; return. theme ( x _ 1, Natalie ) AND return. theme ( x _ 1, x _ 1 ) AND return. theme ( x _ 1, Natalie ) AND return. recipient ( x _ 1, Natalie ) AND return. theme ( x _ 1, Natalie ) AND return. theme ( x _ 1, Natalie ) AND return
+* book ( x _ 1 ) ; wire ( x _ 1, Charlotte ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) AND wire ( x _ 1 ) ; ; x _ 1, x
+* guitar ( x _ 1 ) ; eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. ; x _ 1 ) ;
+. agent ( x _ 1, x _ 1 ) AND flot. agent ( x _ 1, x _ 1 ) AND flot. agent ( x _ 1, x _ 1 ) AND flot. agent ( x _ 1, x _ 1 ) AND flot. agent ( x _ 1, x _ 1 ) AND flot. agent ( x _ 3,, x _ 1 ) AND agent
+* nurse ( x _ 1 ) ; nurse ( x _ 1, William ) AND nurse. agent ( x _ 1, x _ 1 ) AND nurse ( x _ 1 )
+* jigsaw ( x _ 1 ) ; stabbed. agent ( x _ 1, x _ 1 ) AND stabbed. agent ( x _ 1, x _ 1 ) AND stabbed. agent ( x _ 1, x _ 1 ) AND stabbed. agent ( x _ 1, x _ 1 ) AND stabbed. agent ( x _ 1, stab ). agent (
+cake ( x _ 1 ) AND study. theme ( x _ 1, Emma ) AND study. theme ( x _ 1, x _ 1 ) AND study. theme ( x _ 1, x _ 1 ) AND study. theme ( x _ 1, x _ 1 ) AND study. theme ( x _ 1, Emma ) AND study. theme ( x _ 1 )
+* jigsaw ( x _ 1 ) ; ligsaw ( x _ 1, x _ 1 ) AND ligsaw ( x _ 1 ) AND boy ( x _ 1 )
+goose ( x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( ) ; goose ) ; girl (
+balloon ( x _ 1 ) AND slide. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( )
+* cake ( x _ 1 ) ; found. theme ( x _ 1, x _ 1 ) AND found. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+* boy ( x _ 1 ) ; roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x
+* donut ( x _ 1 ) ; inflated. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 ) AND gonfl. agent ( x _ 1, x _ 1 )
+a_distribution ( x _ 1 ) AND rent. agent ( x _ 1, Owen ) AND rent. agent ( x _ 1, Emma ) AND rent. agent ( x _ 1, x _ 1 ) AND rent. agent ( x _ 1, x _ 1 ) AND rent. agent ( x _ 1, x _ 1 ) AND rent. agent ( )
+horse ( x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. agent ( x _ 1, x _ 1 ) AND improve. ( )
+*pig ( x _ 1 ) ; liked. agent ( x _ 1, Isabella ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, Isabella ) AND liked. agent ( x _ 1, Isabella ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, x _ 1 ) ; x
+cookie ( x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw... _ 1 ). ( x
+cake ( x _ 1 ) AND send. theme ( x _ 1, Liam ) AND send. theme ( x _ 1, Liam ) AND send. recipient ( x _ 1, Liam ) AND send. recipient ( x _ 1, Liam ) AND send. recipient ( x _ 1, Liam ) AND send. recipient ( x _ 1, Liam ) AND send
+* cake ( x _ 1 ) ; give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give
+cookie ( x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given... _ 1 ). theme (
+* bunny ( x _ 1 ) ; donut ( x _ 1 ) ; donut ( x _ 1 ) ; donut ( x _ 1, x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 )
+* child ( x _ 1 ) ; ate. agent ( x _ 1, Sophia ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND ate. agent ( x _ 1, x _ 1 ) AND. ( ), x _ 1,
+drink ( x _ 1 ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, x _ 1 ) AND sell. agent ( x _ 1, x _ 1 ) AND sell. agent ( x _ 1, Emma ) AND sell. agent ( x _ 1, x _ 1 ) AND sell. agent ( x _ 1 )
+* penny ( x _ 1 ) ; boy ( x _ 1 ) ; lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND penny ( x _ 1 )
+* baby ( x _ 1 ) ; smile. agent ( x _ 1, x _ 1 ) AND smile. agent ( x _ 1, x _ 1 ) AND smile. agent ( x _ 1, x _ 1 ) AND smile. agent ( x _ 1, x _ 1 ) AND smile. agent ( x _ 1, x _ 1 ) AND smile
+* raisin ( x _ 1 ) ; raisin ( x _ 1 ) ; raisin ( x _ 1 ) ; raisin ( x _ 1 ) ; raisin ( x _ 1 ) ; raisin ( x _ 1, Emily ) ; raisin ( x _ 1 ) ; raisin ( x _ 1 ) ; raisin (
+raisin ( x _ 1 ) AND raisin ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1, x _ 1 ) ; girl ( x
+ball ( x _ 1 ) AND serve. theme ( x _ 1, Sophia ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1, x _ 1 ) AND serve. theme ( x _ 1 )
+cake ( x _ 1 ) AND give. agent ( x _ 1, Emma ) AND give. agent ( x _ 1, Carter ) AND give. agent ( x _ 1, Emma ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 )
+* donut ( x _ 1 ) ; draw. theme ( x _ 1, Ava ) AND draw. agent ( x _ 1, Ava ) AND draw. agent ( x _ 1, Ava ) AND draw. agent ( x _ 1, Ava ) AND draw. agent ( x _ 1, Ava ) AND draw. agent ( x _ 1, Ava )
+* donut ( x _ 1 ) ; draw. theme ( x _ 1, Olivia ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, Olivia ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 ) AND draw. theme ( x _ 1, x _ 1 )
+box ( x _ 1 ) AND burned. agent ( x _ 1, x _ 1 ) AND burned. agent ( x _ 1, x _ 1 ) AND burned. agent ( x _ 1, x _ 1 ) AND burned. agent ( x _ 1, x _ 1 ) AND burned. agent ( x _ 1, x _ 1 ) AND burned. ( x _ 1 )
+cat ( x _ 1 ) AND lended Evelyn. theme ( x _ 1, Evelyn ) AND lended. theme ( x _ 1, Evelyn ) AND lended. theme ( x _ 1, Evelyn ) AND lended. theme ( x _ 1, Evelyn ) AND lended. theme ( x _ 1, Evelyn ) AND. ( x _ 1 )
+cake ( x _ 1 ) AND tiger. theme ( x _ 1, x _ 1 ) AND tiger ( x _ 1 )
+* in_distribution ( x _ 1, Mia ) ; ate. agent ( x _ 1, Mia ) AND ate. theme ( x _ 1, Mia ) AND ate. agent ( x _ 1, Mia ) AND ate. agent ( x _ 1, Mia ) AND ate. agent ( x _ 1, Mia ) AND ate. theme ( x _ 3, x
+* clock ( x _ 1 ) ; roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1 ) ; roll
+. agent ( x _ 1 ) AND fed. theme ( x _ 1, Skylar ) AND fed. theme ( x _ 1, x _ 1 ) AND bucket ( x _ 1 ) AND bucket. theme ( x _ 1, x _ 1 ) AND bucket. theme ( x _ 1, x _ 1 ) AND bucket. theme ( x _ 1, x _ 3, x _ 1 ) AND
+cake ( x _ 1 ) AND cake ( x _ 1 ) AND sink ( x _ 1 ) AND sink. theme ( x _ 1, x _ 1 ) AND sink ( x _ 1 )
+cake ( x _ 1 ) AND given. theme ( x _ 1, Mia ) AND given. theme ( x _ 1, Mia ) AND given. theme ( x _ 1, Mia ) AND given. theme ( x _ 1, Mia ) AND given. theme ( x _ 1, Mia ) AND given. theme ( x _ 1, Mia ) AND given
+cookie ( x _ 1 ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1, Emma ) AND found. agent ( x _ 1 ) AND cookie ) AND. (
+* cake ( x _ 1 ) ; respect. theme ( x _ 1, x _ 1 ) AND respect. theme ( x _ 1, x _ 1 ) AND respect. theme ( x _ 1, x _ 1 ) AND respect. theme ( x _ 1, x _ 1 ) AND respect. theme ( x _ 1, x _ 1 ) AND respect. theme ( x _ 1 ) ; respect
+giraffe ( x _ 1 ) AND cleaned. agent ( x _ 1, x _ 1 ) AND cleaned. agent ( x _ 1, x _ 1 ) AND cleaned. agent ( x _ 1, x _ 1 ) AND cleaned. agent ( x _ 1, x _ 1 ) AND cleaned. agent ( x _ 1, x _ 1 ) AND clean. agent ( ) ; giraffe (
+* drink ( x _ 1 ) ; liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked., x _ 1 ) ; liked
+cake ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. ( )
+* monkey ( x _ 1 ) ; given raisin ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given. theme ( x _ 1, x _ 1 ) AND given raisin ), x _ 1 )
+* donut ( x _ 1 ) ; return. theme ( x _ 1, Charlotte ) AND return. agent ( x _ 1, x _ 1 ) AND return. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 )
+* cat ( x _ 1 ) ; cookie ( x _ 1 ) AND cookie ( x _ 1 ) AND cookie ( x _ 1 )
+sandwich ( x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( )
+* girl ( x _ 1 ) ; gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel. agent ( x _ 1, x _ 1 ) AND gel
+* cake ( x _ 1 ) ; girl ( x _ 1 ) AND give. theme ( x _ 1, Mason ) AND give. theme ( x _ 1, Mason ) AND cake ( x _ 1 )
+* frog ( x _ 1 ) ; sketch. agent ( x _ 1, x _ 1 ) AND sketch. agent ( x _ 1, x _ 1 ) AND sketch. agent ( x _ 1, x _ 1 ) AND sketch. agent ( x _ 1, x _ 1 ) AND sketch. agent ( x _ 1, x _ 1 )
+cat ( x _ 1 ) AND burned. agent ( x _ 1, Liam ) AND burned. agent ( x _ 1, Liam ) AND burned. agent ( x _ 1, Liam ) AND burned. agent ( x _ 1, Liam ) AND burned. agent ( x _ 1, Liam ) AND burned. agent ( x _ 1, Liam ) AND stage
+* bed ( x _ 1 ) ; wanted. agent ( x _ 1, Sophia ) AND wanted. agent ( x _ 1, x _ 1 ) AND wanted. agent ( x _ 1, Sophia ) AND wanted. agent ( x _ 1, x _ 1 ) AND wanted. agent ( x _ 1, x _ 1 ) AND wanted. agent ( x _ 3, x _ 1 ), x
+cookie ( x _ 1 ) AND break. agent ( x _ 1, x _ 1 ) AND break. agent ( x _ 1, x _ 1 ) AND break. agent ( x _ 1, x _ 1 ) AND break. agent ( x _ 1, x _ 1 ) AND break. agent ( x _ 1, x _ 1 ) AND break. ( )
+* in_distribution ( x _ 1 ) ; smirk ( x _ 1 ) ; smirk ( x _ 1, Emma ) ; smirk ( x _ 1 ) ; smirk ( x _ 1, x _ 1 ) ; smirk ( x _ 1 ) ; smirk ( x _ 1 ) ; s
+customer ( x _ 1 ) AND intended. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, x _ 1 ) AND walk. ( x _ 1 ) ; intended. theme
+* donut ( x _ 1 ) ; nurse. agent ( x _ 1, Emma ) AND nurse. agent ( x _ 1, Emma ) AND nurse. agent ( x _ 1, x _ 1 ) AND nurse. agent ( x _ 1, x _ 1 ) AND nurse. agent ( x _ 1, Emma ) AND nurse. agent ( x _ 1, x _ 1 ) ; donut ( x
+crayon ( x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. agent ( x _ 1, x _ 1 ) AND change. theme ( ) ; x _ 1,
+double. agent ( x _ 1, Thomas ) AND double. theme ( x _ 1, x _ 1 ) AND double. agent ( x _ 1, Thomas ) AND double. agent ( x _ 1, x _ 1 ) AND double. agent ( x _ 1, x _ 1 ) AND double. agent ( x _ 1, x _ 1 ) AND double
+goose ( x _ 1 ) AND eat. agent ( x _ 1, x _ 1 ) AND raisin ( x _ 1 ) AND raisin ( x _ 1 )
+hero ( x _ 1, x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 )
+puppy ( x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. agent ( x _ 1, x _ 1 ) AND sleep. ; x _ 1 ) ; sleep.
+box ( x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. ( x _ 1 )
+* baby ( x _ 1 ) ; loan. agent ( x _ 1, Owen ) AND loan. agent ( x _ 1, Owen ) AND loan. agent ( x _ 1, Owen ) AND loan. agent ( x _ 1, Owen ) AND loan. agent ( x _ 1, Owen ) AND loan. agent ( x _ 1, Owen ) AND loan. agent ( )
+cookie ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( x _ 1 ) AND book ( )
+* cake ( x _ 1 ) ; post. theme ( x _ 1, Liam ) AND post. theme ( x _ 1, Liam ) AND post. theme ( x _ 1, Liam ) AND post. theme ( x _ 1, Liam ) AND cake ( x _ 1 )
+* cookie ( x _ 1 ) ; fed. theme ( x _ 1, Noah ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1 ), x _ 1
+girl ( x _ 1 ) AND bird ( x _ 1 ) AND donut ( x _ 1 ) AND bird ( x _ 1, x _ 1 ) AND bird ( x _ 1 ) AND bird ( x _ 1 ) AND donut ( x _ 1 )
+* in_distribution ( x _ 1 ) ; needed. agent ( x _ 1, Jack ) AND needed. agent ( x _ 1, x _ 1 ) AND needed. agent ( x _ 1, Jack ) AND needed. agent ( x _ 1, x _ 1 ) AND needed. agent ( x _ 1, Jack ) AND needed. agent ( x _ 1, x _ 3 ) AND read
+* frog ( x _ 1 ) ; hunt. agent ( x _ 1, x _ 1 ) AND hunt. theme ( x _ 1, x _ 1 ) AND hunt. agent ( x _ 1, x _ 1 ) AND hunt. agent ( x _ 1, x _ 1 ) AND hunt. agent ( x _ 1, x _ 1 )
+* duck ( x _ 1 ) ; send. theme ( x _ 1, Emma ) AND send. recipient ( x _ 1, x _ 1 ) AND send. theme ( x _ 1, x _ 1 ) AND muffin ( x _ 1 ) AND muffin. theme ( x _ 1, x _ 1 ) AND muffin. theme ( x _ 1, x _ 1 ) ; duck ( x _ 1
+* bunny ( x _ 1 ) ; fed. agent ( x _ 1, Emma ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, Emma ) AND fed. agent ( x _ 1, x _ 1 ) AND glue ( x _ 1 )
+* girl ( x _ 1 ) ; preferred. agent ( x _ 1, x _ 1 ) AND prefer. agent ( x _ 1, x _ 1 ) AND prefer. agent ( x _ 1, x _ 1 ) AND prefer. agent ( x _ 1, x _ 1 ) AND prefer. agent ( x _ 1, x _ 1 ) AND prefer
+* cookie ( x _ 1 ) ; hen ( x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) ; cookie (
+* balloon ( x _ 1 ) ; paint. theme ( x _ 1, William ) AND paint. theme ( x _ 1, x _ 1 ) AND block ( x _ 1 )
+balloon ( x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. host ( )
+* scientist ( x _ 1 ) ; wish. agent ( x _ 1, x _ 1 ) AND wish. agent ( x _ 1, x _ 1 ) AND wish. agent ( x _ 1, x _ 1 ) AND wish. agent ( x _ 1, x _ 1 ) AND wish. agent ( x _ 1, x _ 1 ) AND wish., x _ 1 ),
+cake ( x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. cake ( ) ; cake ( x _ 1
+* box ( x _ 1 ) ; study. agent ( x _ 1, x _ 1 ) AND study. agent ( x _ 1, x _ 1 ) AND study. agent ( x _ 1, x _ 1 ) AND study. agent ( x _ 1, x _ 1 ) AND study. agent ( x _ 1, x _ 1 ) AND study. ( x _ 1 ) ; box (
+tiger ( x _ 1 ) AND cake ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1 ) AND house ( x _ 1, x _ 3, tiger ) ; t
+shoe ( x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( ) ; shoe ( x _ 1
+* towel ( x _ 1 ) ; give. agent ( x _ 1, James ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( )
+cake ( x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. theme ( x _ 1, x _ 1 ) AND offer. agent ( x _ 1, Noah ) AND offer. agent ( x _ 1 )
+baby ( x _ 1 ) AND liked a girl. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 )
+* shoe ( x _ 1 ) ; investigation. agent ( x _ 1, Sophia ) AND investigation. agent ( x _ 1, x _ 1 ) AND investigation. agent ( x _ 1, x _ 1 ) AND investigation. agent ( x _ 1, Sophia ) AND investigation. agent ( x _ 1, x _ 1 ) AND investigation. agent ( x _ 3, x _ 1 ), shoe (
+drink ( x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( x _ 1, x _ 1 ) AND roll. theme ( )
+* cake ( x _ 1 ) ; give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ) AND table ( x _ 1 ), x _
+* melon ( x _ 1 ) ; appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 ) AND appreciated. agent ( x _ 1, x _ 1 )
+ball ( x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( ), x _ 1,
+* potato ( x _ 1 ) ; change. agent ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change. theme ( x _ 1, x _ 1 ) AND change., x _ 1 ) ; potato
+* roll ( x _ 1 ) ; roll ( x _ 1, Mason ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 )
+a box ( x _ 1 ) AND passed. agent ( x _ 1, Emma ) AND passed. agent ( x _ 1, x _ 1 ) AND passed. agent ( x _ 1, Emma ) AND passed. agent ( x _ 1, x _ 1 ) AND passed. agent ( x _ 1, x _ 1 ) AND passed. agent ( x _ 3, x _ 1 ) AND a box
+* in_distribution ( x _ 1 ) ; dusted. agent ( x _ 1, Ethan ) AND dusted. agent ( x _ 1, Olivia ) AND dusted. agent ( x _ 1, Ethan ) AND dusted. agent ( x _ 1, Olivia ) AND dusted. agent ( x _ 1, x _ 1 ) AND dusted. agent
+cake ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. kitty ) ) ). theme (
+* nail ( x _ 1 ) ; eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. agent ( x _ 1, x _ 1 ) AND eaten. ; x _ 1 ) ; nail
+* raisin ( x _ 1 ) ; hear. agent ( x _ 1, x _ 1 ) AND hear. agent ( x _ 1, x _ 1 ) AND hear. agent ( x _ 1, x _ 1 ) AND hear. agent ( x _ 1, x _ 1 ) AND hear. agent ( x _ 1, x _ 1 )
+* girl ( x _ 1 ) ; liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. theme ( x _ 1, x _ 1 ) AND liked. ; x _ 1 ) ; liked
+cake ( x _ 1 ) AND post. theme ( x _ 1, Sophia ) AND post. theme ( x _ 1, x _ 1 ) AND post. theme ( x _ 1, x _ 1 ) AND post. theme ( x _ 1, x _ 1 ) AND post. theme ( x _ 1, x _ 1 ) AND post. theme ( x _ 1 )
+* walk. agent ( x _ 1, Levi ) AND walk. theme ( x _ 1, Levi ) AND walk. theme ( x _ 1, x _ 1 ) AND walk. agent ( x _ 1, Levi ) AND walk. agent ( x _ 1, Levi ) AND walk. agent ( x _ 1, Levi ) AND walk. agent ( x _ 1, x _ 3, x _ 3,
+* jacket ( x _ 1 ) ; valued. agent ( x _ 1, x _ 1 ) AND valued. agent ( x _ 1, x _ 1 ) AND valued. agent ( x _ 1, x _ 1 ) AND value ( x _ 1 )
+cake ( x _ 1 ) AND eaten. theme ( x _ 1, Liam ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, x _ 1 ) AND eaten. theme ( x _ 1, Liam ) AND eaten. theme ( x _
+* stage ( x _ 1 ) ; liked. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 ) AND cake ( x _ 1 ) AND cake ( x _ 1 )
+* cake ( x _ 1 ) ; bring. theme ( x _ 1, Daniel ) AND bring. theme ( x _ 1, x _ 1 ) AND bring. theme ( x _ 1, x _ 1 ) AND cake ( x _ 1 )
+melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon ( x _ 1 ) AND melon (
+* leah ( x _ 1 ) ; scoffe. agent ( x _ 1, Leah ) AND scoffe. agent ( x _ 1, Leah ) AND scoffe. agent ( x _ 1, Leah ) AND scoffe. agent ( x _ 1, Leah ) AND scoffe. agent ( x _ 3, Leah )
+box ( x _ 1 ) AND given. agent ( x _ 1, Madison ) AND given. agent ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1 )
+rose ( x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( x _ 1, x _ 1 ) AND sold. agent ( ), x _ 1,
+* boy ( x _ 1 ) ; gave crocodile ( x _ 1 ) ; gave crocodile ( x _ 1 ) ; gave crocodile ( x _ 1, x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( x _ 1 ) AND donut ( ) ; crocodile ( x _
+girl ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. ( )
+. ( x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND sandwich ( x _ 1 ) AND sandwich ( x _ 1 ) AND sandwich ( x _ 1 )
+rose ( x _ 1 ) AND shorter. agent ( x _ 1, Lily ) AND shorter. agent ( x _ 1, Lily ) AND shorter. agent ( x _ 1, Lily ) AND shorter. agent ( x _ 1, Lily ) AND shorter. agent ( x _ 1, Lily ) AND shorter. agent ( x _ 1, Lily ) AND shorter
+bat ( x _ 1 ) AND tolerate. agent ( x _ 1, x _ 1 ) AND tolerate. agent ( x _ 1, x _ 1 ) AND tolerate. agent ( x _ 1, x _ 1 ) AND tolerate. agent ( x _ 1, x _ 1 ) AND tolerate. agent ( x _ 1, x _ 1 ) AND tolerate. theme ( ) ; x _ 1,
+* bear ( x _ 1 ) ; roll. agent ( x _ 1, Emma ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, Emma ) AND roll. agent ( x _ 3, x _ 1 ). agent (
+cake ( x _ 1 ) AND hold. theme ( x _ 1, Olivia ) AND hold. theme ( x _ 1, x _ 1 ) AND hold. theme ( x _ 1, Olivia ) AND hold. theme ( x _ 1, x _ 1 ) AND hold. theme ( x _ 1, Olivia ) AND hold. theme ( x _ 1, x _ 3, x _ 1 )
+cake ( x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( x _ 1, x _ 1 ) AND throw. theme ( ) ; girl ). theme (
+cake ( x _ 1 ) AND give. theme ( x _ 1, Emma ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, Emma ) AND give. recipient ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1 )
+bowl ( x _ 1 ) AND drawn. agent ( x _ 1, x _ 1 ) AND drawn. agent ( x _ 1, x _ 1 ) AND drawn. agent ( x _ 1, x _ 1 ) AND drawn. agent ( x _ 1, x _ 1 ) AND drawn. agent ( x _ 1, x _ 1 ) AND drawn. ( )
+girl ( x _ 1 ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Liam ) AND sell. agent ( x _ 1, Liam ) AND sell. ), x _ 3,
+cake ( x _ 1 ) AND eaten. theme ( x _ 1, Aria ) AND eaten. theme ( x _ 1, Aria ) AND eaten. theme ( x _ 1, Aria ) AND eaten. theme ( x _ 1, Aria ) AND eaten. theme ( x _ 1, Aria ) AND eaten. theme ( x _ 1, Aria ) AND eaten
+button ( x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. ( x _ 1 )
+cookie ( x _ 1 ) AND fed. agent ( x _ 1, Emma ) AND fed. agent ( x _ 1, Evelyn ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 3, x _ 1 ) AND fed.
+host ( x _ 1 ) AND liked. agent ( x _ 1, Alexander ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, Alexander ) AND liked. agent ( x _ 1, x _ 1 ) AND liked. agent ( x _ 1, Alexander ) AND liked. agent ( x _ 1, x _ 1 ) AND host ) AND liked. agent (
+* sandwich ( x _ 1 ) ; liked. agent ( x _ 1, x _ 1 ) AND fed. theme ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed. agent ( x _ 1, x _ 1 ) AND fed a girl ( x _ 1 ) ; dog
+cake ( x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, x _ 1 ) AND boy ( x _ 1
+* vehicle ( x _ 1 ) ; lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou. agent ( x _ 1, x _ 1 ) AND lou
+* dog ( x _ 1 ) ; give melon ( x _ 1, Emma ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND give. theme ( x _ 1, x _ 1 ) AND table ( x _ 1, x _ 1 ) AND mel
+pillow ( x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. theme ( ) ; x _ 1,
+cake ( x _ 1 ) AND value. agent ( x _ 1, Grayson ) AND value ( x _ 1, x _ 1 ) AND value. agent ( x _ 1, Grayson ) AND value ( x _ 1 )
+* rose ( x _ 1 ) ; given. theme ( x _ 1, Sebastian ) AND given. agent ( x _ 1, Sebastian ) AND given. agent ( x _ 1, Sebastian ) AND given. agent ( x _ 1, Sebastian ) AND given. agent ( x _ 1, Sebastian ) AND given. agent ( x _ 1, Sebastian ) AND given. agent ( )
+* cookie ( x _ 1 ) ; give. theme ( x _ 1, Emily ) AND give. theme ( x _ 1, x _ 1 ) AND cookie ( x _ 1 )
+* girl ( x _ 1 ) ; brought. theme ( x _ 1, x _ 1 ) AND bring. theme ( x _ 1, x _ 1 ) AND table ( x _ 1 )
+* cake ( x _ 1 ) ; promised. theme ( x _ 1, x _ 1 ) AND promised. theme ( x _ 1, x _ 1 ) AND promised. theme ( x _ 1, x _ 1 ) AND promised. theme ( x _ 1, x _ 1 ) AND promised. theme ( x _ 1, Emma ) AND promised. theme ( )
+* champion ( x _ 1 ) ; x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 3, x _ 1 ) ; x _ 1,
+drink ( x _ 1 ) AND return. theme ( x _ 1, Olivia ) AND return. theme ( x _ 1, x _ 1 ) AND return. theme ( x _ 1, x _ 1 ) AND return. theme ( x _ 1, Olivia ) AND return. theme ( x _ 1, x _ 1 ) AND return. theme ( x _ 1 )
+cake ( x _ 1 ) AND slid. theme ( x _ 1, Owen ) AND slid. theme ( x _ 1, x _ 1 ) AND slid. theme ( x _ 1, Owen ) AND slid. theme ( x _ 1, x _ 1 ) AND slid. theme ( x _ 1, Owen ) AND slid. ( )
+*melon ( x _ 1 ) ; give. agent ( x _ 1, Liam ) AND give. agent ( x _ 1, Elijah ) AND give. agent ( x _ 1, Elijah ) AND give. agent ( x _ 1, Elijah ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, melon ), x _
+* in_distribution ( x _ 1 ) ; said. agent ( x _ 1, Isabella ) AND said. agent ( x _ 1, x _ 1 ) AND worship. agent ( x _ 1, x _ 1 ) AND worship. agent ( x _ 1, x _ 1 ) AND worship. agent ( x _ 1, x _ 1 )
+* boy ( x _ 1 ) ; lended a pancake. agent ( x _ 1, James ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, James ) AND lended. agent ( x _ 1, x _ 1 ) AND lended. agent ( x _ 1, James ) AND table ( x _ 1 ) ; l
+* boy ( x _ 1 ) ; wanted to talk. theme ( x _ 1, x _ 1 ) AND talk. theme ( x _ 1, x _ 1 ) AND talk. theme ( x _ 1, x _ 1 ) AND talk. theme ( x _ 1, x _ 1 ) AND talk. theme ( x _ 1, x _ 1 )
+* sandwich ( x _ 1 ) ; decompos. agent ( x _ 1, x _ 1 ) AND decompos. agent ( x _ 1, x _ 1 ) AND decompos. agent ( x _ 1, x _ 1 ) AND decompos. agent ( x _ 1, x _ 1 ) AND decompos. agent ( x _ 1 ) ; cat ( x _ 1, x
+. agent ( x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. agent ( x _ 1, x _ 1 ) AND help. on. _ 1 ) AND on.
+* donut ( x _ 1 ) ; roll. theme ( x _ 1, Emma ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, Emma ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1, x _ 1 ) AND roll. agent ( x _ 1,  on ) ; donut (
+girl ( x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND paint. theme ( x _ 1, x _ 1 ) AND cloth ( x _ 1 )
+* manager ( x _ 1 ) ; give. theme ( x _ 1, Elizabeth ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 1, Elizabeth ) AND give. agent ( x _ 1, x _ 1 ) AND give. agent ( x _ 3, x _ 1 ) AND manager (
+cookie ( x _ 1 ) AND crumple. agent ( x _ 1, x _ 1 ) AND crumple. agent ( x _ 1, x _ 1 ) AND crumple. agent ( x _ 1, x _ 1 ) AND crumple. agent ( x _ 1, x _ 1 ) AND crumple. agent ( x _ 1, x _ 1 )
+muffin ( x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. agent ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. recipient ( x _ 1, x _ 1 ) AND given. ; ) ; x _ 1,
