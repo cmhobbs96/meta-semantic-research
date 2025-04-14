@@ -1,0 +1,18 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Paperspace & virtualenvs
+.env/
+.venv/
+
+# Training outputs
+models/
+wandb/
+
+# System files
+.DS_Store
